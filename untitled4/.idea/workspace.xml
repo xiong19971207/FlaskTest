@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c791f6c-0664-45f0-a608-53c6113fab94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Flask Main" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1endNMMhmIoWLLchYdXicBgpgxf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../untitled2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dell\Desktop\FlaskTest\untitled4\App" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="untitled4" type="Python.FlaskServer">
+      <module name="untitled4" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c791f6c-0664-45f0-a608-53c6113fab94" name="Default Changelist" comment="" />
+      <created>1594961249926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594961249926</updated>
+      <workItem from="1594961251996" duration="668000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="496" y="108" key="FileChooserDialogImpl" timestamp="1594961919744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="108" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594961919744" />
+    <state width="1483" height="216" key="GridCell.Tab.0.bottom" timestamp="1594961920503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="216" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594961920503" />
+    <state width="1483" height="216" key="GridCell.Tab.0.center" timestamp="1594961920503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="216" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594961920502" />
+    <state width="1483" height="216" key="GridCell.Tab.0.left" timestamp="1594961920502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="216" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594961920502" />
+    <state width="1483" height="216" key="GridCell.Tab.0.right" timestamp="1594961920503">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="216" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594961920503" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled4$untitled4.coverage" NAME="untitled4 Coverage Results" MODIFIED="1594961540839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
